@@ -38,10 +38,6 @@
     <members>MyPage</members>
   </types>
   <types>
-    <name>PermissionSet</name>
-    <members>Demo_Jenkins</members>
-  </types>
-  <types>
     <name>CustomTab</name>
     <members>Clases_de_Apex</members>
     <members>Curso__c</members>
